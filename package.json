@@ -4,7 +4,7 @@
     "url": "https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-expect/issues"
   },
   "dependencies": {
-    "cucumber": "6.0.7",
+    "@cucumber/cucumber": "7.0.0",
     "expect": "26.6.2",
     "puppeteer": "5.5.0"
   },
